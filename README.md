@@ -2,7 +2,7 @@
 Proyecto donde se desarrolla el desafío planteado por LATAM.
 
 ## Descripción del problema: 
-El problema consiste en predecir la probabilidad de atraso en los vuelos que despegan o aterrizan en el aeropuerto de Santiago De Chile (SCL). Para resolverlo se utilizará una base que contiene los vuelos que despegaron o aterrizaro en el aeropuerto de SCL en el año 2017.
+El problema consiste en predecir la probabilidad de atraso en los vuelos que despegan o aterrizan en el aeropuerto de Santiago De Chile (SCL). Para resolverlo se utilizará una base que contiene los vuelos que despegaron o aterrizaron en el aeropuerto de SCL en el año 2017.
 
 ## Consideraciones adicionales:
 - No se consideraron variables exógenas por tema de tiempo, pero creo que la distancia entre la ciudad de origen y la de destino, además de las condiciones climáticas serían un buen factor para agregar al modelo.
