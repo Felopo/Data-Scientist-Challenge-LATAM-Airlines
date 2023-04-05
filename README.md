@@ -7,7 +7,7 @@ El problema consiste en predecir la probabilidad de atraso en los vuelos que des
 ## Consideraciones adicionales:
 - No se consideraron variables exógenas por tema de tiempo, pero creo que la distancia entre la ciudad de origen y la de destino, además de las condiciones climáticas serían un buen factor para agregar al modelo.
 
-- Para el tema de Git-flow se creó una rama "development" en la cual se iba trabajando y agregando nuevas funcionalidades a medida que estaban listas. La rama "main" solamente fue tocada cuando las funcionalidades estaban listas y revisadas.
+- Considerando el Git-flow, se creó una rama "development" en la cual se iba trabajando y agregando nuevas funcionalidades a medida que estaban listas. La rama "main" solamente fue tocada cuando las funcionalidades estaban listas y revisadas.
 
 - Como se comenta en el notebook, los vuelos que despegaron antes del horario programado se les dejó con 0 minutos en la variable "min_diff", pues la naturaleza de la variable mide retraso, y estos casos no corresponden a retrasos.
 
