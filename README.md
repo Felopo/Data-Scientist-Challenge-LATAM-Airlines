@@ -10,3 +10,5 @@ El problema consiste en predecir la probabilidad de atraso en los vuelos que des
 - Para el tema de Git-flow se creó una rama "development" en la cual se iba trabajando y agregando nuevas funcionalidades a medida que estaban listas. La rama "main" solamente fue tocada cuando las funcionalidades estaban listas y revisadas.
 
 - Como se comenta en el notebook, los vuelos que despegaron antes del horario programado se les dejó con 0 minutos en la variable "min_diff", pues la naturaleza de la variable mide retraso, y estos casos no corresponden a retrasos.
+
+- Para la actividad 2.) el archivo csv pedido se encuentra en la siguiente ruta: `data/output`
